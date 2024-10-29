@@ -5,7 +5,7 @@ cabal-version: 1.12
 -- see: https://github.com/sol/hpack
 
 name:           alarmclock
-version:        0.7.0.6
+version:        0.7.0.7
 synopsis:       Wake up and perform an action at a certain time.
 description:    Please see the README at <https://github.com/DaveCTurner/alarmclock/blob/master/README.md>
 category:       Concurrency
