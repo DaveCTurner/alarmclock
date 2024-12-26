@@ -11,7 +11,7 @@ synopsis:            Wake up and perform an action at a certain time.
 
 description:         Please see the README at <https://github.com/DaveCTurner/alarmclock/blob/master/README.md>
 
-tested-with:         GHC ==8.10.7 || ==9.4.8 || ==9.8.2 || ==9.10.1
+tested-with:         GHC ==8.10.7 || ==9.4.8 || ==9.8.2 || ==9.10.1 || ==9.12.1
 
 dependencies:
 - base             >= 4.8.0 && < 5
